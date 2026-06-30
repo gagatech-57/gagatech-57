@@ -149,7 +149,7 @@ fun_fact: "I debug code faster than I debug my sleep schedule 😅"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:gunaknn@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0B0F19?style=for-the-badge&logo=instagram&logoColor=00F0FF)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://YOUR_PORTFOLIO_LINK.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://portfolio-eight-ebon-21.vercel.app/)
 
 </div>
 
